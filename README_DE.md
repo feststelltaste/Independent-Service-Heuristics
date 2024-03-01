@@ -3,7 +3,7 @@ Quelle: Übersetzt von Independent-Service-Heuristics, CC-BY-SA-4.0 license, Cop
 
 1. **Sinn-Check**: Könnte es einen logischen Sinn ergeben, diese Sache „als Dienstleistung“ anzubieten?
     - Ist diese Sache unabhängig genug?
-    - Würden die Verbraucher es verstehen oder schätzen?
+    - Würden die Verbraucher es verstehen oder wertschätzen?
     - Würde es die Ausführung der Arbeit der Verbraucher erleichtern?
 2. **Marke**: Ist die Vermarktung der Sache als öffentlichen Cloud-Service vorstellbar?
     - Wäre es ein lebensfähiges Unternehmen (oder „Mikrounternehmen“) oder eine Dienstleistung?
